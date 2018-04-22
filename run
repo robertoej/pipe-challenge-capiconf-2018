@@ -1,0 +1,2 @@
+javac PipefyChallenge.java
+java PipefyChallenge < in
